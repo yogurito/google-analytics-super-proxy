@@ -1,0 +1,15 @@
+target/
+build/
+.gradle
+datanucleus.log
+.DS_Store
+out
+*.iml
+*.ipr
+*.iws
+.idea
+.settings
+.classpath
+.project
+**/WEB-INF/appengine-generated/datastore-indexes-auto.xml
+**/WEB-INF/appengine-generated/local_db.bin
